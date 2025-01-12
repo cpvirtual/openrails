@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version:  CPV v1.0\n"
+"Project-Id-Version: CPV v1.0\n"
 "POT-Creation-Date: 2020-04-03 18:27:11+0100\n"
-"PO-Revision-Date: 2025-01-05 01:37+0000\n"
+"PO-Revision-Date: 2025-01-12 22:34+0000\n"
 "Last-Translator: Rui Fonseca <ryfonseca77@gmail.com>\n"
 "Language-Team: Rui Fonseca\n"
 "Language: pt_PT\n"
@@ -386,7 +386,7 @@ msgstr "Dia:"
 
 #: ../../Menu/MainForm.Designer.cs:880
 msgid "Timetable set:"
-msgstr "Horário:"
+msgstr "Plano de Horários:"
 
 #: ../../Menu/MainForm.Designer.cs:900 ../../Menu/Options.cs:267
 #: ../../Menu/TestingForm.Designer.cs:314
